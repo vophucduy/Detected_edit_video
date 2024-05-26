@@ -3,4 +3,3 @@
 
 Hi vọng dự án này sẽ giúp ích được cho bạn ^^! 
 
-- Note : Vì mô hình quá lớn nên bạn có thể tải ở đây: https://drive.google.com/file/d/11JxZyQpoeh49F5xiLmnDP7ebExzHG9aw/view?usp=sharing
